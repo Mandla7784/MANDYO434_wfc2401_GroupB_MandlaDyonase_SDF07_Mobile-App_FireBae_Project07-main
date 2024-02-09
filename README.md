@@ -24,3 +24,10 @@ In this project i made a mobile application using firebase the cloud-hosted NoSQ
 
 #### Overall Learning Experience
 this project helped me to understand the purpose of transforming data format to another such as javascript objects to arrays in order to loop through and   Render the data to the DOM and store the use input on DATABASE
+
+
+netlify App link
+https://app.netlify.com/sites/add-to-shopping-cart-app/configuration/general
+
+
+
